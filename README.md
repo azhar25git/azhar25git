@@ -10,7 +10,7 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/azhar-uddin-sunny/](https://www.linkedin.com/in/azhar-uddin-sunny/)
     
 <h4>Projects that I have built:</h4>  
-  <h5>i.Laravel, Vue</h5>  
+  <h5>i. Laravel, Vue</h5>  
     <p>a. [Sender.net](https://www.sender.net/) - Microservices stack with Laravel, Vue, Mysql, Postgresql, Clickhouse</p>
     <p>b. [NorthWest Career College](https://docs.northwestcareercollege.edu) - Edutech portal with several backoffice services including Laravel, Vue JS based backoffice portal</p>
     <p>c. [Sipay](https://sipay.com.tr/) - Fintech e-wallet SaaS on Laravel Livewire Vue</p>
