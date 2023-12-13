@@ -11,15 +11,15 @@
     
 <h4>Projects that I have built:</h4>  
   <h5>i. Laravel, Vue</h5>  
-    <p>a. [Sender.net](https://www.sender.net/) - Microservices stack with Laravel, Vue, Mysql, Postgresql, Clickhouse</p>
-    <p>b. [NorthWest Career College](https://docs.northwestcareercollege.edu) - Edutech portal with several backoffice services including Laravel, Vue JS based backoffice portal</p>
-    <p>c. [Sipay](https://sipay.com.tr/) - Fintech e-wallet SaaS on Laravel Livewire Vue</p>
+    <p>a. Sender.net (https://www.sender.net/) - Microservices stack with Laravel, Vue, Mysql, Postgresql, Clickhouse</p>
+    <p>b. NorthWest Career College (https://docs.northwestcareercollege.edu) - Edutech portal with several backoffice services including Laravel, Vue JS based backoffice portal</p>
+    <p>c. Sipay (https://sipay.com.tr/) - Fintech e-wallet SaaS on Laravel Livewire Vue</p>
     
   <h5>ii. CRMs </h5> 
-    <p>a. [PerfumeForYou](https://parfumforyou.nl/) - Magento to first OpenCart then finally WordPress site conversion</p>
-    <p>b. [Sundora](https://sundora.com.bd/) - OpenCart to Shopify, Python Wagtail Django conversion</p>
-    <p>c. [Ekushey Patrika](https://www.ekusheypatrika.com/) - A News Portal on WordPress</p>
-    <p>d. [David Francis Furniture](https://davidfrancisfurniture.com/) - Ecommerce site on Shopify and customized JS</p>
+    <p>a. PerfumeForYou (https://parfumforyou.nl/) - Magento to first OpenCart then finally WordPress site conversion</p>
+    <p>b. Sundora (https://sundora.com.bd/) - OpenCart to Shopify, Python Wagtail Django conversion</p>
+    <p>c. Ekushey Patrika (https://www.ekusheypatrika.com/) - A News Portal on WordPress</p>
+    <p>d. David Francis Furniture (https://davidfrancisfurniture.com/) - Ecommerce site on Shopify and customized JS</p>
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
