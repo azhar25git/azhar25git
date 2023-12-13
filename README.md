@@ -8,17 +8,19 @@
 - 💬 Ask me about **Laravel, PHP, Databases**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/azhar-uddin-sunny/](https://www.linkedin.com/in/azhar-uddin-sunny/)
-- Projects that I have built:
-  i.Laravel, Vue
-    a. [Sender.net](https://www.sender.net/) - Microservices stack with Laravel, Vue, Mysql, Postgresql, Clickhouse
-    b. [NorthWest Career College](https://docs.northwestcareercollege.edu) - Edutech portal with several backoffice services including Laravel, Vue JS based backoffice portal
+    
+- Projects that I have built:  
+  i.Laravel, Vue  
+    a. [Sender.net](https://www.sender.net/) - Microservices stack with Laravel, Vue, Mysql, Postgresql, Clickhouse  
+    b. [NorthWest Career College](https://docs.northwestcareercollege.edu) - Edutech portal with several backoffice services including Laravel, Vue JS based backoffice portal  
     c. [Sipay](https://sipay.com.tr/) - Fintech e-wallet SaaS on Laravel Livewire Vue
-  ii. CRMs
-    a. [PerfumeForYou](https://parfumforyou.nl/) - Magento to first OpenCart then finally WordPress site conversion
-    b. [Sundora](https://sundora.com.bd/) - OpenCart to Shopify, Python Wagtail Django conversion
-    c. [Ekushey Patrika](https://www.ekusheypatrika.com/) - A News Portal on WordPress
-    d. [David Francis Furniture](https://davidfrancisfurniture.com/) - Ecommerce site on Shopify and customized JS
-
+    
+  ii. CRMs  
+    a. [PerfumeForYou](https://parfumforyou.nl/) - Magento to first OpenCart then finally WordPress site conversion  
+    b. [Sundora](https://sundora.com.bd/) - OpenCart to Shopify, Python Wagtail Django conversion  
+    c. [Ekushey Patrika](https://www.ekusheypatrika.com/) - A News Portal on WordPress  
+    d. [David Francis Furniture](https://davidfrancisfurniture.com/) - Ecommerce site on Shopify and customized JS  
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/techygist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="techygist" height="30" width="40" /></a>
