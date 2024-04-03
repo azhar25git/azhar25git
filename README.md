@@ -3,9 +3,9 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azhar25git" alt="azhar25git" /></a> </p> -->
 
-- 🔭 I’m currently working on **Sender.net**
+- 🔭 I’m currently looking for open positions for Backend PHP/Laravel or FullStack Laravel/Vue, Laravel/React
 
-- 💬 Ask me about **Laravel, PHP, Databases**
+- 💬 Ask me about **Laravel, PHP, Databases, React, Vue**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/azhar-uddin-sunny/](https://www.linkedin.com/in/azhar-uddin-sunny/)
     
