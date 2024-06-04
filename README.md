@@ -3,7 +3,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azhar25git" alt="azhar25git" /></a> </p> -->
 
-- 🔭 I’m currently looking for open positions for Backend PHP/Laravel or FullStack Laravel/Vue, Laravel/React
+- 🔭 I’m currently working for Scopic and dealing with full-stack of several SaaS products
 
 - 💬 Ask me about **Laravel, PHP, Databases, React, Vue**
 
