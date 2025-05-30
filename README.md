@@ -3,7 +3,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azhar25git" alt="azhar25git" /></a> </p> -->
 
-- 🔭 I’m currently working for Scopic and dealing with full-stack of several SaaS products
+- 🔭 I’m currently working for Kensink and dealing with Back-end of several SaaS products
 
 - 💬 Ask me about **Laravel, PHP, Databases, React, Vue**
 
