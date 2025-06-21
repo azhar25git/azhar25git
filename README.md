@@ -14,6 +14,7 @@
     <p>a. Sender.net (https://www.sender.net/) - Microservices stack with Laravel, Vue, Mysql, Postgresql, Clickhouse</p>
     <p>b. NorthWest Career College (https://docs.northwestcareercollege.edu) - Edutech portal with several backoffice services including Laravel, Vue JS based backoffice portal</p>
     <p>c. Sipay (https://sipay.com.tr/) - Fintech e-wallet SaaS on Laravel Livewire Vue</p>
+    <p>d. Deluxe Localization (https://sferastudios.com/) - Multidisciplinary ERP based service provider with Laravel, Yii, Symfony, React, Redux, TypeScript, AWS, Postgres</p>
     
   <h5><b>ii. CRMs</b></h5> 
     <p>a. PerfumeForYou (https://parfumforyou.nl/) - Magento to first OpenCart then finally WordPress site conversion</p>
@@ -34,6 +35,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=azhar25git&show_icons=true&locale=en&layout=compact" alt="azhar25git" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azhar25git&" alt="azhar25git" /></p>
+<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azhar25git&" alt="azhar25git" /></p> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azhar25git&label=Profile%20views&color=0e75b6&style=flat" alt="azhar25git" /> </p>
