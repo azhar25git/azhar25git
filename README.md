@@ -14,7 +14,7 @@
     <p>a. Sender.net (https://www.sender.net/) - Microservices stack with Laravel, Vue, Mysql, Postgresql, Clickhouse</p>
     <p>b. NorthWest Career College (https://docs.northwestcareercollege.edu) - Edutech portal with several backoffice services including Laravel, Vue JS based backoffice portal</p>
     <p>c. Sipay (https://sipay.com.tr/) - Fintech e-wallet SaaS on Laravel Livewire Vue</p>
-    <p>d. Deluxe Localization (https://sferastudios.com/) - Multidisciplinary ERP based service provider with Laravel, Yii, Symfony, React, Redux, TypeScript, AWS, Postgres</p>
+    <p>d. Deluxe Localization (https://sferastudios.com/) - Multidisciplinary ERP based service provider with Laravel, Yii, Symfony, Redis, React, Redux, TypeScript, AWS, Postgres</p>
     
   <h5><b>ii. CRMs</b></h5> 
     <p>a. PerfumeForYou (https://parfumforyou.nl/) - Magento to first OpenCart then finally WordPress site conversion</p>
