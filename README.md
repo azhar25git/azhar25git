@@ -8,6 +8,7 @@
 - 💬 Ask me about **Laravel, PHP, Databases, React, Vue**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/azhar-uddin-sunny/](https://www.linkedin.com/in/azhar-uddin-sunny/)
+- For my resume [Click here](https://drive.google.com/file/d/1shlJ2Nv68RezZNXdMR0J7hEqLUtAhuz2/view?usp=sharing)
     
 <h4>Projects that I have built:</h4>  
   <h5><b>i. Laravel, React, Vue</b></h5>  
