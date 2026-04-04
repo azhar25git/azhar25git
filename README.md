@@ -11,17 +11,24 @@
 - For my resume [Click here](https://drive.google.com/file/d/1shlJ2Nv68RezZNXdMR0J7hEqLUtAhuz2/view?usp=sharing)
     
 <h4>My Projects:</h4>  
-  <ol>
-      <li><b>MiniSchool</b> (https://school.minisoft.bd/) - No-nonsense School Management system using TALL Stack</li>
-      <li><b>Sender.net</b> (https://www.sender.net/) - Microservices stack with Laravel, Vue, Mysql, Postgresql, Clickhouse</li>
-      <li><b>Sundora</b> (https://sundora.com.bd/) - OpenCart to Shopify, Python Wagtail Django conversion</li>
-      <li><b>NorthWest Career College</b> (https://docs.northwestcareercollege.edu) - Edutech portal with several backoffice services including Laravel, Vue JS based backoffice portal</li>
-      <li><b>Deluxe Localization</b> (https://sferastudios.com/) - Multidisciplinary ERP based service provider with Laravel, Yii, Symfony, Redis, React, Redux, TypeScript, AWS, Postgres</li>
-      <li><b>Ekushey Patrika</b> (https://www.ekusheypatrika.com/) - A News Portal on WordPress</li>
-      <li><b>Sipay</b> (https://sipay.com.tr/) - Fintech e-wallet SaaS on Laravel Livewire Vue</li>
-      <li><b>PerfumeForYou</b> (https://parfumforyou.nl/) - Magento to first OpenCart then finally WordPress site conversion</li>
-      <li><b>David Francis Furniture</b> (https://davidfrancisfurniture.com/) - Ecommerce site on Shopify and customized JS</li>
-  </ol>
+<ol>
+    <li><b>MiniSchool</b> (https://school.minisoft.bd/) - No-nonsense School Management system using TALL Stack</li>
+    <li><b>Sender.net</b> (https://www.sender.net/) - Microservices stack with Laravel, Vue, Mysql, Postgresql, Clickhouse</li>
+    <li><b>Sundora</b> (https://sundora.com.bd/) - OpenCart to Shopify, Python Wagtail Django conversion</li>
+    <li><b>NorthWest Career College</b> (https://docs.northwestcareercollege.edu) - Edutech portal with several backoffice services including Laravel, Vue JS based backoffice portal</li>
+    <li><b>Deluxe Localization</b> (https://sferastudios.com/) - Multidisciplinary ERP based service provider with Laravel, Yii, Symfony, Redis, React, Redux, TypeScript, AWS, Postgres</li>
+    <li><b>Ekushey Patrika</b> (https://www.ekusheypatrika.com/) - A News Portal on WordPress</li>
+    <li><b>Sipay</b> (https://sipay.com.tr/) - Fintech e-wallet SaaS on Laravel Livewire Vue</li>
+    <li><b>PerfumeForYou</b> (https://parfumforyou.nl/) - Magento to first OpenCart then finally WordPress site conversion</li>
+    <li><b>David Francis Furniture</b> (https://davidfrancisfurniture.com/) - Ecommerce site on Shopify and customized JS</li>
+</ol>
+
+<h4>My Docs:</h4>
+<ol>
+    <li>Backend Engineering Handbook (https://azhar25git.github.io/backend-engineering-handbook/) - A handbook on Backend Engineering</li>
+    <li>AlgoSheet (https://azhar25git.github.io/algosheet/) - An at-a-glance pattern documentation for problem solving</li>
+    <li>Tutorial on AI Function Calling (https://azhar25git.github.io/ai-toolcall-tutorial/)</li>
+</ol>
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
