@@ -10,18 +10,18 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/azhar-uddin-sunny/](https://www.linkedin.com/in/azhar-uddin-sunny/)
 - For my resume [Click here](https://drive.google.com/file/d/1shlJ2Nv68RezZNXdMR0J7hEqLUtAhuz2/view?usp=sharing)
     
-<h4>Projects that I have built:</h4>  
-  <h5><b>i. Laravel, React, Vue</b></h5>  
-    <p>a. Sender.net (https://www.sender.net/) - Microservices stack with Laravel, Vue, Mysql, Postgresql, Clickhouse</p>
-    <p>b. NorthWest Career College (https://docs.northwestcareercollege.edu) - Edutech portal with several backoffice services including Laravel, Vue JS based backoffice portal</p>
-    <p>c. Sipay (https://sipay.com.tr/) - Fintech e-wallet SaaS on Laravel Livewire Vue</p>
-    <p>d. Deluxe Localization (https://sferastudios.com/) - Multidisciplinary ERP based service provider with Laravel, Yii, Symfony, Redis, React, Redux, TypeScript, AWS, Postgres</p>
-    
-  <h5><b>ii. CRMs</b></h5> 
-    <p>a. PerfumeForYou (https://parfumforyou.nl/) - Magento to first OpenCart then finally WordPress site conversion</p>
-    <p>b. Sundora (https://sundora.com.bd/) - OpenCart to Shopify, Python Wagtail Django conversion</p>
-    <p>c. Ekushey Patrika (https://www.ekusheypatrika.com/) - A News Portal on WordPress</p>
-    <p>d. David Francis Furniture (https://davidfrancisfurniture.com/) - Ecommerce site on Shopify and customized JS</p>
+<h4>My Projects:</h4>  
+  <ol>
+      <li><b>MiniSchool</b> (https://school.minisoft.bd/) - No-nonsense School Management system using TALL Stack</li>
+      <li><b>Sender.net</b> (https://www.sender.net/) - Microservices stack with Laravel, Vue, Mysql, Postgresql, Clickhouse</li>
+      <li><b>Sundora</b> (https://sundora.com.bd/) - OpenCart to Shopify, Python Wagtail Django conversion</li>
+      <li><b>NorthWest Career College</b> (https://docs.northwestcareercollege.edu) - Edutech portal with several backoffice services including Laravel, Vue JS based backoffice portal</li>
+      <li><b>Deluxe Localization</b> (https://sferastudios.com/) - Multidisciplinary ERP based service provider with Laravel, Yii, Symfony, Redis, React, Redux, TypeScript, AWS, Postgres</li>
+      <li><b>Ekushey Patrika</b> (https://www.ekusheypatrika.com/) - A News Portal on WordPress</li>
+      <li><b>Sipay</b> (https://sipay.com.tr/) - Fintech e-wallet SaaS on Laravel Livewire Vue</li>
+      <li><b>PerfumeForYou</b> (https://parfumforyou.nl/) - Magento to first OpenCart then finally WordPress site conversion</li>
+      <li><b>David Francis Furniture</b> (https://davidfrancisfurniture.com/) - Ecommerce site on Shopify and customized JS</li>
+  </ol>
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
