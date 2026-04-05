@@ -28,6 +28,7 @@
     <li>Backend Engineering Handbook (https://azhar25git.github.io/backend-engineering-handbook/) - A handbook on Backend Engineering</li>
     <li>AlgoSheet (https://azhar25git.github.io/algosheet/) - An at-a-glance pattern documentation for problem solving</li>
     <li>Tutorial on AI Function Calling (https://azhar25git.github.io/ai-toolcall-tutorial/)</li>
+    <li>AI Labeling Guide (https://azhar25git.github.io/sft-rlhf-workflow/) - AI Data Labeling Reference Guide - SFT & RLHF Labeling Workflows</li>
 </ol>
   
 <h3 align="left">Connect with me:</h3>
