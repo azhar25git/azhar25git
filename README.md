@@ -41,7 +41,7 @@
 <a href="https://www.leetcode.com/azhar25git" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="azhar25git" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=azhar25git&show_icons=true&locale=en&layout=compact" alt="azhar25git" /></p>
+![Top Langs](https://gizacard.com/api/top-langs?username=azhar25git)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=azhar25git)](https://git.io/streak-stats)
 
