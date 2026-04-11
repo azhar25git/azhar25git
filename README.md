@@ -4,9 +4,9 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azhar25git" alt="azhar25git" /></a> </p> -->
 
-- 🔭 Software development professional with 9 years delivering high‑performance web solutions. Expert in PHP/Laravel, React, and Vue.js; proficient in Python, JavaScript, CMS platforms, and SQL/NoSQL databases. Proven track record designing scalable architecture, optimizing code, integrating APIs, and building robust database solutions. Strong command of jQuery and vanilla JavaScript. Recognized for rapid learning, collaborative teamwork, clear communication, and meticulous analytical rigor.
+- 🔭 Full Stack Software Developer with 9 years delivering high‑performance web solutions. Fast learning. Pro-active. Solution oriented. Dealing with AI, researching inference frameworks and guidelines for local and cloud LLM variants.
 
-- 💬 Ask me about **Laravel, PHP, Databases, React, Vue**
+- 💬 Ask me about **AI, Laravel, PHP, Databases, React, Vue**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/azhar-uddin-sunny/](https://www.linkedin.com/in/azhar-uddin-sunny/)
 - For my resume [Click here](https://drive.google.com/file/d/1shlJ2Nv68RezZNXdMR0J7hEqLUtAhuz2/view?usp=sharing)
