@@ -1,3 +1,4 @@
+<link rel="icon" type="image/x-icon" href="azhar-uddin.ico">
 <h1 align="center">Hi 👋, I'm Azhar</h1>
 <h3 align="center">Skilled Programmer: Crafting Exceptional Web Apps</h3>
 
