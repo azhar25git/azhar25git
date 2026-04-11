@@ -27,10 +27,17 @@
 <h4>My Docs:</h4>
 <ol>
     <li>Backend Engineering Handbook (https://azhar25git.github.io/backend-engineering-handbook/) - A handbook on Backend Engineering</li>
+    <li>Laravel Simple Documentation At a Glance (https://azhar25git.github.io/laravel-at-a-glance/)</li>
+    <li>(https://azhar25git.github.io/github-trophies/)</li>
     <li>Alpine JS Tutorial (https://azhar25git.github.io/alpine-js-tut/) - Interactive at-a-glance of Alpine JS 3.x.x </li>
     <li>AlgoSheet (https://azhar25git.github.io/algosheet/) - An at-a-glance pattern documentation for problem solving</li>
     <li>Tutorial on AI Function Calling (https://azhar25git.github.io/ai-toolcall-tutorial/)</li>
     <li>AI Labeling Guide (https://azhar25git.github.io/sft-rlhf-workflow/) - AI Data Labeling Reference Guide - SFT & RLHF Labeling Workflows</li>
+</ol>
+
+<h4>Fun Projects</h4>
+<ol>
+    <li>Check Your Github Trophies(https://azhar25git.github.io/github-trophies/)</li>
 </ol>
   
 <h3 align="left">Connect with me:</h3>
