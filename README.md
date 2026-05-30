@@ -14,6 +14,7 @@
     
 <h4>My Projects:</h4>  
 <ol>
+    <li><b>Liberu CRM</b> (https://github.com/liberu-crm/crm-laravel/) - Open source CRM built with Laravel, Filament, Livewire, and REST API</li>
     <li><b>MiniSchool</b> (https://school.minisoft.bd/) - No-nonsense School Management system using TALL Stack</li>
     <li><b>Sender.net</b> (https://www.sender.net/) - Microservices stack with Laravel, Vue, Mysql, Postgresql, Clickhouse</li>
     <li><b>Sundora</b> (https://sundora.com.bd/) - OpenCart to Shopify, Python Wagtail Django conversion</li>
