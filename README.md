@@ -29,6 +29,8 @@
 <h4>My Docs:</h4>
 <ol>
     <li>Backend Engineering Handbook (https://azhar25git.github.io/backend-engineering-handbook/) - A handbook on Backend Engineering</li>
+    <li>Go Programming The Masterclass guide (https://azhar25git.github.io/golang-tutorial-docs/)</li>
+    <li>Modern PHP8 Masterclass(https://azhar25git.github.io/php8-tutorial/)</li>
     <li>Laravel Simple Documentation At a Glance (https://azhar25git.github.io/laravel-at-a-glance/)</li>
     <li>Alpine JS Tutorial (https://azhar25git.github.io/alpine-js-tut/) - Interactive at-a-glance of Alpine JS 3.x.x </li>
     <li>AlgoSheet (https://azhar25git.github.io/algosheet/) - An at-a-glance pattern documentation for problem solving</li>
