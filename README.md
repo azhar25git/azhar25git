@@ -1,6 +1,6 @@
 <link rel="icon" type="image/x-icon" href="azhar.ico">
 <h1 align="center">Hi 👋, I'm Azhar</h1>
-<h3 align="center">Skilled Programmer: Crafting Exceptional Web Apps</h3>
+<h3 align="center">Seasoned Web Product Developer: Crafting Exceptional Web Apps</h3>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azhar25git" alt="azhar25git" /></a> </p> -->
 
